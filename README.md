@@ -1,8 +1,5 @@
 # E-commerce Data Insights: Unveiling the Potential of Markets and Sellers through Daily Business Activity Data Analysis
 
-
-# Graph Transformer Architecture
-
 This is the dataset used in the experiments for the paper 'E-commerce Data Insights: Unveiling the Potential of Markets and Sellers through Daily Business Activity Data Analysis'.
 
 
