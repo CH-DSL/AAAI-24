@@ -9,7 +9,7 @@ This is the dataset used in the experiments for the paper 'E-commerce Data Insig
 
 <br>
 
-## 2. Download datasets
+## 2. Download Datasets
 
 
 <br>
