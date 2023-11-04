@@ -5,7 +5,7 @@ This is the dataset used in the experiments for the paper 'E-commerce Data Insig
 
 ## 1. Dataset Layout
 
-<img width="404" alt="image" src="https://github.com/eC-dbAD/AAAI-24/assets/149764796/559b16e2-d49d-41bd-8296-c3f1470ce04c">
+<img width="623" alt="image" src="https://github.com/eC-dbAD/AAAI-24/assets/149764796/bdfc0116-97cc-45d4-8229-491afa5cd1ab">
 
 <br>
 
