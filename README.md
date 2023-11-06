@@ -11,6 +11,7 @@ This is the dataset used in the experiments for the paper 'E-commerce Data Insig
 
 ## 2. Download Datasets
 
+The data titled 'eC-dbAD' has been uploaded.
 
 <br>
 
